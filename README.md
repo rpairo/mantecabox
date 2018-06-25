@@ -3,7 +3,7 @@
 
 Servicio de almacenamiento de ficheros seguro en la nube para la asignatura de Seguridad en el Diseño de Software
 
-Desarrollada por [Raúl Pera Pairó](github.com/rpairo) y [Pavel Razgovorov](github.com/paveltrufi)
+Desarrollada por [Raúl Pera Pairó](https://github.com/rpairo) y [Pavel Razgovorov](https://github.com/paveltrufi)
 
 ## Resumen
 En esta práctica hemos desarrollado un sistema de backup de ficheros remoto que permite el almacenamiento y recuperación de forma segura. Funciona como una arquitectura cliente-servidor convencional. A lo largo de este documento explicaremos el diseño elegido, el proceso de desarrollo seguido, el flujo de trabajo empleado y algunos defectos y mejoras que proponemos en el hipotético caso del seguimiento del desarrollo de este proyecto.
